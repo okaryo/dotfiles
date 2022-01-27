@@ -1,0 +1,12 @@
+[user]
+  name = okaryo
+  email = okaryotr@gmail.com
+[color]
+  ui = auto
+[push]
+  default = simple
+[alias]
+  co = checkout
+  br = branch
+  cm = commit -m
+  softreset = reset --soft HEAD^
